@@ -36,3 +36,17 @@ The program provides a strength rating from *Extremely Weak* to *Very Strong*, a
    This project runs on Python.
 3. Download or ensure the file 10-million-password-list-top-100000.txt is located in the same folder as the Python script.
 4. Run the script
+
+---
+## Notes
+
+1. If the password list is located elsewhere, update the file path in the load_common_words() function.
+2. Passwords must be at least 6 characters long and contain at least one letter and one number.
+3. The tool runs in a loop until the user types 'exit'.
+4. This tool is built as part of a final project to promote better password hygiene through interactive feedback.
+
+--
+
+## License
+
+This project is open-source and free to use for educational and personal security improvement purposes.
