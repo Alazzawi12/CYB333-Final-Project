@@ -45,7 +45,7 @@ The program provides a strength rating from *Extremely Weak* to *Very Strong*, a
 3. The tool runs in a loop until the user types 'exit'.
 4. This tool is built as part of a final project to promote better password hygiene through interactive feedback.
 
---
+---
 
 ## License
 
